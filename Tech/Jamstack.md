@@ -24,7 +24,7 @@ JavaScript, API, MarkUp Architecture.
 
 ## 비교
 
-![jam_stack](assets/jam_stack.svg)
+![jamstack](https://d33wubrfki0l68.cloudfront.net/b7d16f7f3654fb8572360301e60d76df254a323e/385ec/img/svg/architecture.svg)
 
 ### 전통적인 웹 개발 구조
 
@@ -79,5 +79,4 @@ Ruby에 익숙하다면 Jekyll
 
 검색, 쇼핑, 결제 등 다양한 Third party APIs : algolia(검색 API 서비스), shopify, PayPal  
 예로, algolia plugin을 사용하면 빌드 시 검색 대상 콘텐츠들을 algolia 서비스의 검색 대상 레코드(필드)로 등록할 수 있다.  
-검색 시에도 React 검색 컴포넌트를 통해 검색어가 입력될 때마다 algolia 서비스에 검색 쿼리 API를 요청하게 되고,  
-API 결과로 검색된 결과를 받아 React 검색 결과 리스트 컴포넌트로 보여줄 수 있다.
+검색 시에도 React 검색 컴포넌트를 통해 검색어가 입력될 때마다 algolia 서비스에 검색 쿼리 API를 요청하게 되고, API 결과로 검색된 결과를 받아 React 검색 결과 리스트 컴포넌트로 보여줄 수 있다.
