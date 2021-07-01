@@ -5,11 +5,16 @@
 ### Categories
 
 - [Tech](#Tech)
+- [Function](#Function)
 - [VSCode](#VSCode)
 
 ### Tech
 
 - [Jamstack](Tech/Jamstack.md)
+
+### Function
+
+- [Context Menu](Function/Context_Menu.md)
 
 ### VSCode
 
