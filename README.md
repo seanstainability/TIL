@@ -10,6 +10,7 @@
 
 ### Tech
 
+- [자바스크립트는 어떻게 작동하는가](Tech/자바스크립트는_어떻게_작동하는가.md)
 - [Jamstack](Tech/Jamstack.md)
 
 ### Function
