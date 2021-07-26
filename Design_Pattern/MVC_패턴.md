@@ -1,6 +1,6 @@
 # MVC 패턴
 
-!(MVC 패턴)[https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/327/1262.png]
+![MVC 패턴](https://s3.ap-northeast-2.amazonaws.com/opentutorials-user-file/module/327/1262.png)
 
 1. 사용자가 웹사이트에 접속한다.(USES)
 2. 컨트롤러는 사용자가 요청한 웹페이지를 서비스하기 위해 모델을 호출한다.(MANIPULATES: 조작)
