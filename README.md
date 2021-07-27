@@ -5,15 +5,19 @@
 ### Categories
 
 - [Architecture](#Architecture)
+- [Blog](#Blog)
 - [Design Pattern](#Design_Pattern)
 - [React](#React)
-- [Blog](#Blog)
 - [Function](#Function)
 - [VSCode](#VSCode)
 
 ### Architecture
 
 - [JamStack](Architecture/JamStack.md)
+
+### Blog
+
+- [블로그 만들기 프로젝트 - 1](Blog/블로그_만들기_프로젝트_1.md)
 
 ### Design Pattern
 
@@ -23,10 +27,6 @@
 
 - [커링과 함수 조합](React/커링과_함수_조합.md)
 - [React에서 MobX 사용하기](React/React에서_MobX_사용하기.md)
-
-### Blog
-
-- [블로그 만들기 프로젝트 - 1](Blog/블로그_만들기_프로젝트_1.md)
 
 ### Function
 
