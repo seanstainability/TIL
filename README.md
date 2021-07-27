@@ -8,8 +8,6 @@
 - [Blog](#Blog)
 - [Design Pattern](#Design_Pattern)
 - [React](#React)
-- [Function](#Function)
-- [VSCode](#VSCode)
 
 ### Architecture
 
@@ -26,12 +24,3 @@
 ### React
 
 - [커링과 함수 조합](React/커링과_함수_조합.md)
-- [React에서 MobX 사용하기](React/React에서_MobX_사용하기.md)
-
-### Function
-
-- [Context Menu](Function/Context_Menu.md)
-
-### VSCode
-
-- [마크업 생산성을 위한 플러그인 모음](VSCode/마크업_생산성을_위한_플러그인_모음.md)
