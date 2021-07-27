@@ -4,18 +4,16 @@
 
 ### Categories
 
-- [Tech](#Tech)
+- [Architecture](#Architecture)
 - [Design Pattern](#Design_Pattern)
 - [React](#React)
 - [Blog](#Blog)
 - [Function](#Function)
 - [VSCode](#VSCode)
 
-### Tech
+### Architecture
 
-- [자바스크립트는 어떻게 작동하는가](Tech/자바스크립트는_어떻게_작동하는가.md)
-- [Jamstack](Tech/Jamstack.md)
-- [우리는 언제 어떤 테스트를 해야하는가](Tech/우리는_언제_어떤_테스트를_해야하는가.md)
+- [JamStack](Architecture/JamStack.md)
 
 ### Design Pattern
 
