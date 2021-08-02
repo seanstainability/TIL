@@ -8,6 +8,7 @@
 - [Blog](#Blog)
 - [Design Pattern](#Design_Pattern)
 - [React](#React)
+- [Q&A](#Q&A)
 
 ### Architecture
 
@@ -24,3 +25,7 @@
 ### React
 
 - [커링과 함수 조합](React/커링과_함수_조합.md)
+
+### Q&A
+
+- [브라우저 저장소](Q&A/브라우저_저장소.md)
